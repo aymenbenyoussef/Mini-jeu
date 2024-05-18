@@ -1,0 +1,63 @@
+﻿  TesteSFML.cpp
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(26,21): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(26,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(26,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(26,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(26,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(27,21): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(27,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(27,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(27,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(27,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(109,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(109,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(109,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(109,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(109,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(110,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(110,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(110,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(110,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(110,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(118,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(118,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(118,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(118,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(118,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(119,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(119,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(119,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(119,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(119,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(126,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(126,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(126,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(126,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(126,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(127,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(127,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(127,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(127,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(127,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(134,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(134,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(134,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(134,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(134,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(135,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(135,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(135,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(135,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(135,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(143,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(143,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(143,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(143,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(143,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(144,21): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(144,21): warning C4244:         with
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(144,21): warning C4244:         [
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(144,21): warning C4244:             T=float
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(144,21): warning C4244:         ]
+C:\Users\HP\Desktop\Mini_Jeu\Projet_final\TesteSFML\TesteSFML.cpp(185,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  TesteSFML.vcxproj -> C:\Users\HP\Desktop\Mini_Jeu\Projet_final\x64\Debug\TesteSFML.exe
